@@ -93,7 +93,7 @@ Nested inside the `box` div, create another div with the class `box1`. Then, ins
 The options on your spinning wheel will be inside these `span` tags. So, between each `span` tag, add the options you want on your spinning wheel and wrap those options in `<b>` tags. Go crazy!
 
 ```html
-<span class="span1"><b>Iron Man</b></span>
+<span class="span1">Sports</b></span>
 <span class="span2"><b>7500</b></span>
 <span class="span3"><b>Bat Man</b></span>
 <span class="span4"><b>Joker</b></span>
